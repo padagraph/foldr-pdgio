@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="mobile-web-app-capable" content="yes">
+    
+    
+    <meta name="description" content="padagraph.io meets HackFoldr ========  ## &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; foldr  #### padagraph fork of">
+    
+    <title>padagraph.io meets HackFoldr - HackMD</title>
+    <link rel="icon" type="image/png" href="https://hackmd.io/favicon.png">
+	<link rel="apple-touch-icon" href="https://hackmd.io/apple-touch-icon.png">
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KLW9Z3');</script>
+<!-- End Google Tag Manager -->
+    <meta property="fb:app_id" content="1436904003272070">
+
+<meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/2786990?s=400" />
+
+<meta name="twitter:site" content="@hackmd" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="padagraph.io meets HackFoldr - HackMD" />
+
+<meta name="twitter:description" content="padagraph.io meets HackFoldr ========  ## &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; foldr  #### padagraph fork of" />
+
+
+<meta property="og:image" content="https://avatars.githubusercontent.com/u/2786990?s=400" />
+
+<meta property="og:site_name" content="HackMD" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="padagraph.io meets HackFoldr - HackMD" />
+
+<meta property="og:description" content="padagraph.io meets HackFoldr ========  ## &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; foldr  #### padagraph fork of" />
+
+	
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css" integrity="sha256-3iu9jgsy9TpTwXKb7bNQzqWekRX7pPK+2OLj3R922fo=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/3.5.0/octicons.min.css" integrity="sha256-QiWfLIsCT02Sdwkogf6YMiQlj4NE84MKkzEMkZnMGdg=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/emojify.js/1.1.0/css/basic/emojify.min.css" integrity="sha256-UOrvMOsSDSrW6szVLe8ZDZezBxh5IoIfgTwdNDgTjiU=" crossorigin="anonymous" />
+    
+<link href="https://hackmd.io/build/font.60a765735a870ba7242e.css" rel="stylesheet">
+
+<link href="https://hackmd.io/build/pretty-styles.60a765735a870ba7242e.css" rel="stylesheet">
+
+<link href="https://hackmd.io/build/pretty.60a765735a870ba7242e.css" rel="stylesheet">
+
+
+	
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js" integrity="sha256-g6iAfvZp+nDQ2TdTR/VVKJf3bGro4ub5fvWSWVRi2NE=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.9/es5-shim.min.js" integrity="sha256-8E4Is26QH0bD52WoQpcB+R/tcWQtpzlCojrybUd7Mxo=" crossorigin="anonymous"></script>
+<![endif]-->
+</head>
+
+<body style="display:none;">
+    <div class="ui-infobar container-fluid unselectable hidden-print">
+        <small>
+            <span>
+                
+                    <span class="ui-lastchangeuser">&thinsp;<i class="ui-user-icon small" style="background-image: url(https://avatars.githubusercontent.com/u/2786990?s=96);" data-toggle="tooltip" data-placement="right" title="ynnk"></i></span>
+                
+                &nbsp;<span class="text-uppercase ui-status-lastchange"></span>
+                <span class="ui-lastchange text-uppercase" data-createtime="Mon Sep 18 2017 01:30:25 GMT+0000 (UTC)" data-updatetime="Mon Sep 18 2017 10:53:36 GMT+0000 (UTC)"></span>
+            </span>
+            <span class="pull-right">9 views <a href="#" class="ui-edit" title="Edit this note"><i class="fa fa-fw fa-pencil"></i></a></span>
+            <br>
+            
+        </small>
+    </div>
+    <div id="doc" class="container markdown-body">padagraph.io meets HackFoldr
+========
+
+## &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; foldr
+
+#### padagraph fork of hackfoldr
+https://github.com/padagraph/hackfoldr-2.0-forkme
+
+## &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; botapad
+https://github.com/padagraph/botapad
+
+
+### Dumpfoldr
+
+#### backup your foldr
+
+This program allow to dump the urls from a foldr configuration calc stored as an ethercalc.org document. 
+ 
+    $ python foldr.py dump http://foldr.padagraph.io/pdgio  ./foldr-pdgio
+    
+#### save to github
+
+Commit your files to github
+
+```bash
+$ cd ./foldr-pdgio
+$ git init
+$ git remote add origin git@github.com:ynnk/foldr-pdgio.git
+$ git add *
+$ git commit -am &#34;first commit&#34;
+$ git push
+```
+
+
+### Botapad
+
+Import tool to convert pad &amp; calc to graphs.
+
+#### Install
+
+    $ pip install -r requirements.txt
+
+#### Usage
+
+    # see help :
+    $ python botapad.py --help
+
+    # exemple with framapad
+    # edge graph
+    $ python botapad.py fillon https://mensuel.framapad.org/p/qzpH0qxHkM/export/txt  --key `cat ../../key.txt` --separator &#39;;&#39;
+
+    # projected graph
+    $ python botapad.py uspol https://mensuel.framapad.org/p/uspol/export/txt  --key `cat ../../key.txt` --separator &#39;,&#39;
+    
+
+### flask app / Botapadapp
+
+Accessible Flask service for botapad  
+#### Export host
+
+    # routes: external server to compute layouts/clustering given
+    $ export ENGINES_HOST=http://www.padagraph.io
+
+#### copy your token
+
+:::success
+Tokens are required to store graphs to padagraph.io
+:::
+
+- get a token (http://padagraph.io/account/me/generate_auth_token)  
+- copy this token to ```secret/key.txt``` 
+
+#### Run  
+
+    $ python botapadapp.py
+
+#### Paths
+
+    /
+    /readme
+    /stats
+    /import
+    /import/igraph    form
+    /import/padagraph form
+    /static/*.js css  
+
+
+
+[DEPRECATED] requires ../../screenshot/screenshot.py in `$PYTHONPATH`
+    
+## TODO
+
+* [star] starred projected node  
+
+* [materials]nodetype materials (shape, color, size) ??   
+
+* [import]circular import @[Nodetype]#id  
+* [import]url expansion with some providers  
+      [+] navigation for humans between pad, git, cloud ...  
+      [-] url might be unaccurate with some providers  
+      ex : 
+        &amp; https://mensuel.framapad.org/p/uspol  
+        ! is converted during import to  https://mensuel.framapad.org/p/uspol/export/txt  
+
+
+
+&lt;a href=&#34;http://botapad.padagraph.io/import/igraph.html?s=framapad&amp;gid=game_of_thrones&amp;live=1&amp;nofoot=1&#34; target=&#34;iframe&#34;&gt;voir ce graphe&lt;/a&gt;
+
+&lt;iframe src=&#34;https://botapad.padagraph.io/import/igraph.html?s=framapad&amp;gid=game_of_thrones&amp;nofoot=1&#34; style=&#34;width:100%; height:600px&#34;/&gt;
+
+</div>
+    <div class="ui-toc dropup unselectable hidden-print" style="display:none;">
+        <div class="pull-right dropdown">
+            <a id="tocLabel" class="ui-toc-label btn btn-default" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" title="Table of content">
+                <i class="fa fa-bars"></i>
+            </a>
+            <ul id="ui-toc" class="ui-toc-dropdown dropdown-menu" aria-labelledby="tocLabel">
+            </ul>
+        </div>
+    </div>
+    <div id="ui-toc-affix" class="ui-affix-toc ui-toc-dropdown unselectable hidden-print" data-spy="affix" style="display:none;"></div>
+    
+</body>
+
+</html>
+<script src="https://hackmd.io/js/ga.js" async defer></script>
+<script src="https://cdn.ravenjs.com/3.13.1/raven.min.js" crossorigin="anonymous"></script>
+<script>Raven.config('https://b1ed86878f414ccc832dc0f63ffe2daa@sentry.io/121416').install();</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLW9Z3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ messageStyle: "none", skipStartupTypeset: true ,tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']], processEscapes: true }});
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.4.0/velocity.min.js" integrity="sha256-bhm0lgEt6ITaZCDzZpkr/VXVrLa5RP4u9v2AYsbzSUk=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js" integrity="sha256-jnOjDTXIPqall8M0MyTSt98JetJuZ7Yu+1Jm7hLTF7U=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.7.0/js-yaml.min.js" integrity="sha256-8PanqYAVOGlOct+i65R+HqibK3KPsXINnrSfxN+Y/J0=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js" integrity="sha256-yYfngbEKv4RENfGDvNUqJTqGFcKf31NJEe9OTnnMH3Y=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/config/TeX-AMS-MML_HTMLorMML.js" integrity="sha256-immzXfCGLhnx3Zfi9F/dUcqxEM8K3o3oTFy9Bh6HCwg=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment-with-locales.min.js" integrity="sha256-vvT7Ok9u6GbfnBPXnbM6FVDEO8E1kTdgHOFZOAXrktA=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.0.0/mermaid.min.js" integrity="sha256-1uR+pqxH5fN/rOZcZTb9c5+bR3OIYEKzu2sI11Dnj9A=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/emojify.js/1.1.0/js/emojify.min.js" integrity="sha256-VAB5tAlKBvgaxw8oJ1crWMVbdmBVl4mP/2M8MNRl+4E=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.min.js" integrity="sha256-1O3BtOwnPyyRzOszK6P+gqaRoXHV6JXj8HkjZmPYhCI=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js" integrity="sha256-KbfTjB0WZ8vvXngdpJGY3Yp3xKk+tttbqClO11anCIU=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.6.0/gist-embed.min.js" integrity="sha256-KyF2D6xPIJUW5sUDSs93vWyZm+1RzIpKCexxElmxl8g=" crossorigin="anonymous" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/viz.js/1.8.0/viz-lite.js" integrity="sha256-lLBbzF3IYSscIpBw/KgKjF1dDWMQdz1RWZnEdnNSDxA=" crossorigin="anonymous" defer></script>
+<script src="/build/constant.js"></script>
+
+<script src="https://hackmd.io/build/4.pretty.60a765735a870ba7242e.js" defer></script>
+
+
+
+
