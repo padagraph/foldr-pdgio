@@ -10,7 +10,7 @@
     <meta name="mobile-web-app-capable" content="yes">
     
     
-    <meta name="description" content="  ## Foldr  Use the `foldr` to aggregate data, documentation, graph and external resources on the sa">
+    <meta name="description" content=" ## Foldr     ### create a foldr on foldr.padagraph.io  choose name `{your_folder}` and just **point">
     
     <title>HackMD - Collaborative markdown notes</title>
     <link rel="icon" type="image/png" href="https://hackmd.io/favicon.png">
@@ -30,7 +30,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="HackMD - Collaborative markdown notes" />
 
-<meta name="twitter:description" content="  ## Foldr  Use the `foldr` to aggregate data, documentation, graph and external resources on the sa" />
+<meta name="twitter:description" content=" ## Foldr     ### create a foldr on foldr.padagraph.io  choose name `{your_folder}` and just **point" />
 
 
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/2786990?s=400" />
@@ -39,7 +39,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:type" content="article" />
 <meta property="og:title" content="HackMD - Collaborative markdown notes" />
 
-<meta property="og:description" content="  ## Foldr  Use the `foldr` to aggregate data, documentation, graph and external resources on the sa" />
+<meta property="og:description" content=" ## Foldr     ### create a foldr on foldr.padagraph.io  choose name `{your_folder}` and just **point" />
 
 	
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous" />
@@ -73,18 +73,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <span class="ui-lastchangeuser">&thinsp;<i class="ui-user-icon small" style="background-image: url(https://avatars.githubusercontent.com/u/2786990?s=96);" data-toggle="tooltip" data-placement="right" title="ynnk"></i></span>
                 
                 &nbsp;<span class="text-uppercase ui-status-lastchange"></span>
-                <span class="ui-lastchange text-uppercase" data-createtime="Sun Sep 17 2017 19:07:27 GMT+0000 (UTC)" data-updatetime="Mon Sep 18 2017 11:10:24 GMT+0000 (UTC)"></span>
+                <span class="ui-lastchange text-uppercase" data-createtime="Mon Sep 18 2017 11:44:44 GMT+0000 (UTC)" data-updatetime="Mon Sep 18 2017 11:46:10 GMT+0000 (UTC)"></span>
             </span>
-            <span class="pull-right">33 views <a href="#" class="ui-edit" title="Edit this note"><i class="fa fa-fw fa-pencil"></i></a></span>
+            <span class="pull-right">5 views <a href="#" class="ui-edit" title="Edit this note"><i class="fa fa-fw fa-pencil"></i></a></span>
             <br>
             
         </small>
     </div>
     <div id="doc" class="container markdown-body">
-
 ## Foldr
 
-Use the `foldr` to aggregate data, documentation, graph and external resources on the same page.  `decalcographe` to visualise graph data.
+
 
 
 ### create a foldr on foldr.padagraph.io
@@ -104,55 +103,11 @@ You should keep first 2 lines `empty` in your configuration.
 | ------ | ------------- |---------|---------| 
 |        | folder name   |         |         |
 |        | decalcographe | expand  |         |
-|https://hackmd.io/OwJmEYFMA5gVgLQBMAsBjARglA2NAzBAQyOCITnDWgAY4QBmDBh8IA==?view/  |	Introduction	||red readme	
-|https://hackmd.io/KYRghgLA7BBMAmBaAbBARgTkdViAcYIw+AzAGYkDGArGJXlFJUA=?view  |	Syntax and examples		
-|https://hackmd.io/EwEwHCBsCMIOwFoCmcBGBOBAWAhgZhwRwDMckFJhhi9VUcsBjERoA===?view  |	Quick notes		
-|https://hackmd.io/BwZgxgphAmCsBMBaAnM2JEBYAMBDaiARgIyYbDRgBmmY8Y0wYA7EA===?view/ |	For developpers	|| blue devs
-
-
-### Create a new document
-
-* [ethercalc](https://ethercalc.org)
-* [github](https://github.com)
-* [hackmd](https://hackmd.io/new)
-* [framapad](https://framapad.org)
-* [google docs](https://docs.google.com)
-
-* ...
-
-
-
-
-&lt;h3&gt;&lt;a href=&#34;https://hackmd.io/KYRghgLA7BBMAmBaAbBARgTkdViAcYIw+AzAGYkDGArGJXlFJUA=?view&#34; target=&#34;iframe&#34;&gt;Syntax and examples&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;h3&gt;&lt;a href=&#34;https://hackmd.io/EwEwHCBsCMIOwFoCmcBGBOBAWAhgZhwRwDMckFJhhi9VUcsBjERoA=?view&#34; target=&#34;iframe&#34;&gt;Quick notes&lt;/a&gt;
-&lt;/h3&gt;
-
-### embed visualisation
-
-```html
-
-&lt;iframe 
- src=&#34;https://botapad.padagraph.io/import/igraph.html?s=https://docs.google.com/document/d/1pctuIXU4ioIjZ3v9P6vT8bpMMOVW_BUv1rYTFNctil8/edit&amp;gid=solar&amp;nofoot=1&#34; 
- style=&#34;width:100%; height:400px&#34;
-/&gt;
-
-```
-
-&lt;iframe src=&#34;https://botapad.padagraph.io/import/igraph.html?s=https://docs.google.com/document/d/1pctuIXU4ioIjZ3v9P6vT8bpMMOVW_BUv1rYTFNctil8/edit&amp;gid=solar&amp;nofoot=1&#34; style=&#34;width:100%; height:400px&#34;/&gt;
-
-### side by side edition
-
-Edit graph and data simultaneously
-
----
-&lt;h3&gt;&lt;a href=&#34;https://hackmd.io/s/r1F3bsh5Z&#34; target=&#34;iframe&#34;&gt;Developpers&lt;/a&gt;
-&lt;/h3&gt;
-
-	
-
-
+|https://hackmd.io/s/Sywx_B3cZ  |	Introduction	||red readme	
+|https://hackmd.io/s/HJDfkNp5Z	|	Syntax and examples		
+|https://hackmd.io/s/HJxs65X69W	|	Graph visualisation		
+|https://hackmd.io/s/HylDJ4a5W  |	Quick notes		
+|https://hackmd.io/s/r1F3bsh5Z  |	For developpers	|| blue devs
 </div>
     <div class="ui-toc dropup unselectable hidden-print" style="display:none;">
         <div class="pull-right dropdown">

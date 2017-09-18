@@ -73,9 +73,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <span class="ui-lastchangeuser">&thinsp;<i class="ui-user-icon small" style="background-image: url(https://avatars.githubusercontent.com/u/2786990?s=96);" data-toggle="tooltip" data-placement="right" title="ynnk"></i></span>
                 
                 &nbsp;<span class="text-uppercase ui-status-lastchange"></span>
-                <span class="ui-lastchange text-uppercase" data-createtime="Mon Sep 18 2017 01:30:25 GMT+0000 (UTC)" data-updatetime="Mon Sep 18 2017 10:53:36 GMT+0000 (UTC)"></span>
+                <span class="ui-lastchange text-uppercase" data-createtime="Mon Sep 18 2017 01:30:25 GMT+0000 (UTC)" data-updatetime="Mon Sep 18 2017 11:25:13 GMT+0000 (UTC)"></span>
             </span>
-            <span class="pull-right">9 views <a href="#" class="ui-edit" title="Edit this note"><i class="fa fa-fw fa-pencil"></i></a></span>
+            <span class="pull-right">12 views <a href="#" class="ui-edit" title="Edit this note"><i class="fa fa-fw fa-pencil"></i></a></span>
             <br>
             
         </small>
@@ -94,23 +94,26 @@ https://github.com/padagraph/botapad
 
 ### Dumpfoldr
 
-#### backup your foldr
+#### &lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt; backup your foldr
 
 This program allow to dump the urls from a foldr configuration calc stored as an ethercalc.org document. 
  
     $ python foldr.py dump http://foldr.padagraph.io/pdgio  ./foldr-pdgio
     
-#### save to github
+#### &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; Commit your files to github
 
-Commit your files to github
 
+* create a repository on github
+https://github.com/new
+
+* download and commit your files
 ```bash
-$ cd ./foldr-pdgio
-$ git init
-$ git remote add origin git@github.com:ynnk/foldr-pdgio.git
-$ git add *
-$ git commit -am &#34;first commit&#34;
-$ git push
+cd ./foldr-pdgio
+git init
+git remote add origin git@github.com:ynnk/foldr-pdgio.git
+git add *
+git commit -am &#34;first commit&#34;
+git push
 ```
 
 

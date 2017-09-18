@@ -10,9 +10,9 @@
     <meta name="mobile-web-app-capable" content="yes">
     
     
-    <meta name="description" content="# Graph visualisation  ## intro  ## filters ## layouts ## clustering  ## keyboard shortcuts">
+    <meta name="description" content=" [toc]    --- ### Customize your foldr menu  you can edit your foldable menu: * click edit button ne">
     
-    <title>Graph visualisation - HackMD</title>
+    <title>HackMD - Collaborative markdown notes</title>
     <link rel="icon" type="image/png" href="https://hackmd.io/favicon.png">
 	<link rel="apple-touch-icon" href="https://hackmd.io/apple-touch-icon.png">
     <!-- Google Tag Manager -->
@@ -28,18 +28,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <meta name="twitter:site" content="@hackmd" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Graph visualisation - HackMD" />
+<meta name="twitter:title" content="HackMD - Collaborative markdown notes" />
 
-<meta name="twitter:description" content="# Graph visualisation  ## intro  ## filters ## layouts ## clustering  ## keyboard shortcuts" />
+<meta name="twitter:description" content=" [toc]    --- ### Customize your foldr menu  you can edit your foldable menu: * click edit button ne" />
 
 
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/2786990?s=400" />
 
 <meta property="og:site_name" content="HackMD" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Graph visualisation - HackMD" />
+<meta property="og:title" content="HackMD - Collaborative markdown notes" />
 
-<meta property="og:description" content="# Graph visualisation  ## intro  ## filters ## layouts ## clustering  ## keyboard shortcuts" />
+<meta property="og:description" content=" [toc]    --- ### Customize your foldr menu  you can edit your foldable menu: * click edit button ne" />
 
 	
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous" />
@@ -73,22 +73,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <span class="ui-lastchangeuser">&thinsp;<i class="ui-user-icon small" style="background-image: url(https://avatars.githubusercontent.com/u/2786990?s=96);" data-toggle="tooltip" data-placement="right" title="ynnk"></i></span>
                 
                 &nbsp;<span class="text-uppercase ui-status-lastchange"></span>
-                <span class="ui-lastchange text-uppercase" data-createtime="Mon Sep 18 2017 11:15:14 GMT+0000 (UTC)" data-updatetime="Mon Sep 18 2017 11:17:33 GMT+0000 (UTC)"></span>
+                <span class="ui-lastchange text-uppercase" data-createtime="Mon Sep 18 2017 11:34:48 GMT+0000 (UTC)" data-updatetime="Mon Sep 18 2017 11:35:14 GMT+0000 (UTC)"></span>
             </span>
-            <span class="pull-right">3 views <a href="#" class="ui-edit" title="Edit this note"><i class="fa fa-fw fa-pencil"></i></a></span>
+            <span class="pull-right">6 views <a href="#" class="ui-edit" title="Edit this note"><i class="fa fa-fw fa-pencil"></i></a></span>
             <br>
             
         </small>
     </div>
-    <div id="doc" class="container markdown-body"># Graph visualisation
+    <div id="doc" class="container markdown-body">
+[toc]
 
-## intro
 
-## filters
-## layouts
-## clustering
 
-## keyboard shortcuts</div>
+---
+### Customize your foldr menu
+
+you can edit your foldable menu:
+* click edit button next to the folder name
+:::info
+&lt;i class=&#34;fa fa-book&#34;&gt;&lt;/i&gt; *Hackfolder template rich exemple http://folder.moztw.org/hackfolder_template/edit*
+:::
+
+---
+### create a new document to store data &amp; resource
+
+:::success
+&lt;i class=&#34;fa fa-edit fa-fw&#34;&gt;&lt;/i&gt;when page is loaded, keep the url to save in folder configuration .
+*ex:* `https://hackmd.io/EwEwh[...]i9VUcsBjERoA===` 
+:::
+* [hackmd.io](https://hackmd.io/new)
+* [ethercalc.org](https://ethercalc.org/_new) or create your own link `https://etherpad.org/{your_pad}`
+* [googledoc](https://docs.google.com)
+* [google calc](https://docs.google.com/spreadsheets)
+* [github repository](https://github.com/new)</div>
     <div class="ui-toc dropup unselectable hidden-print" style="display:none;">
         <div class="pull-right dropdown">
             <a id="tocLabel" class="ui-toc-label btn btn-default" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" title="Table of content">
