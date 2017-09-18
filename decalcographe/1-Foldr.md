@@ -4,13 +4,13 @@
 
 
 
-### create a foldr on foldr.padagraph.io
+### <i class="fa fa-folder"></i> create a foldr on foldr.padagraph.io
 
 choose name `{your_folder}` and just **point** your browser to `https://foldr.padagraph.io/{your_folder}`
 
-### Edit your  foldr structure
+### <i class="fa fa-pencil"></i> Edit your  foldr structure
 
-Manage links in the left panel
+ Manage links in the left panel
 http://foldr.padagraph.io/{your_folder}/edit
 
 :::warning
@@ -26,3 +26,5 @@ You should keep first 2 lines `empty` in your configuration.
 |https://hackmd.io/s/HJxs65X69W	|	Graph visualisation		
 |https://hackmd.io/s/HylDJ4a5W  |	Quick notes		
 |https://hackmd.io/s/r1F3bsh5Z  |	For developpers	|| blue devs
+
+* *You may copy/paste this sample to start a new project*

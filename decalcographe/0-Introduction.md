@@ -1,20 +1,24 @@
 
-<h3><a href="https://hackmd.io/s/ry43Z46cZ" target="iframe">foldr</a>
+<h3><a href="https://hackmd.io/s/ry43Z46cZ" target="iframe"><i class="fa fa-folder"></i> foldr</a>
 </h3>
 
 Use the `foldr` to aggregate data, documentation, data and external resources on the same page to visualise graph data.
 
 ---
 
-### Create a new document
+### <i class="fa fa-file"></i> Create a new document
+:::	success 
+<i class="fa fa-table"></i> [ethercalc](https://ethercalc.org)
 
-* [ethercalc](https://ethercalc.org)
-* [github](https://github.com)
-* [hackmd](https://hackmd.io/new)
-* [framapad](https://framapad.org)
-* [google docs](https://docs.google.com)
+<i class="fa fa-github"></i> [github](https://github.com)
 
-* ...
+<i class="fa fa-file-text"></i> [HackMD](https://hackmd.io/new)
+
+<i class="fa fa-file-text-o"></i> [framapad](https://framapad.org)
+
+<i class="fa fa-file-text-o"></i> [google docs](https://docs.google.com)
+
+:::
 
 
 ---

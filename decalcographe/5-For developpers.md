@@ -7,10 +7,10 @@ padagraph.io meets HackFoldr
 https://github.com/padagraph/hackfoldr-2.0-forkme
 
 ## <i class="fa fa-github"></i> botapad
-https://github.com/padagraph/botapad
+https://github.com/padagraph/botapadd
 
 
-### Dumpfoldr
+### Dump foldr
 
 #### <i class="fa fa-download"></i> backup your foldr
 
@@ -28,11 +28,12 @@ https://github.com/new
 ```bash
 cd ./foldr-pdgio
 git init
-git remote add origin git@github.com:ynnk/foldr-pdgio.git
+git remote add origin git@github.com:padagraph/foldr-pdgio.git
 git add *
 git commit -am "first commit"
 git push
 ```
+
 
 
 ### Botapad
